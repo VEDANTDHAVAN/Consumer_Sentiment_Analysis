@@ -1,0 +1,4 @@
+*.p filter=lfs diff=lfs merge=lfs -text
+models.p filter=lfs diff=lfs merge=lfs -text
+*.ipynb linguist-vendored
+amazon_review_full_csv/train.csv filter=lfs diff=lfs merge=lfs -text
