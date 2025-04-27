@@ -27,7 +27,7 @@ The Amazon reviews full score dataset is constructed by randomly taking 6,00,000
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/amri-tah/Amazon-Reviews-Sentiment-Analysis.git
+    git clone https://github.com/VEDANTDHAVAN/Consumer_Sentiment_Analysis.git
     ```
 
 2. Navigate to the project directory:
