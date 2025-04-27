@@ -1,0 +1,11 @@
+streamlit==1.28.1
+nltk>=3.6.1
+numpy
+pandas
+wordcloud
+regex
+plotly
+requests
+beautifulsoup4==4.11.1
+lxml
+scikit-learn
